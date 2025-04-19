@@ -32,10 +32,11 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 ---
 
 ## ✅ To-do
+
 - Smart Contract to Log Custom Transactions
 - Decentralized Portfolio Tracker
 - Create a Block Trance Token
-- 
+
 ---
 
 ## 🖼️ UI Preview
@@ -57,26 +58,22 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 ## 🛠️ Installation
 
 ### Clone the Repo
-- cd block-trance
+<pre> cd block-trance </pre>
 ### Install Dependencies
 - Frontend:
-cd client
-npm install
+<pre> cd client npm install </pre>
 - Backend:
-cd server
-npm install
+<pre> cd server npm install </pre>
 
 ---
 
 ## 🧪 Run Locally
 
 ### Backend:
-cd server
-npm start
+<pre> cd server npm start </pre>
 
 ### Frontend:
-cd client
-npm run dev
+<pre> cd client npm run dev </pre>
 
 - App will run on: http://localhost:5173
 
