@@ -61,19 +61,23 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 <pre> cd block-trance </pre>
 ### Install Dependencies
 - Frontend:
-<pre> cd client npm install </pre>
+<pre> cd client 
+  npm install </pre>
 - Backend:
-<pre> cd server npm install </pre>
+<pre> cd server 
+  npm install </pre>
 
 ---
 
 ## 🧪 Run Locally
 
 ### Backend:
-<pre> cd server npm start </pre>
+<pre> cd server 
+  npm start </pre>
 
 ### Frontend:
-<pre> cd client npm run dev </pre>
+<pre> cd client 
+  npm run dev </pre>
 
 - App will run on: http://localhost:5173
 
