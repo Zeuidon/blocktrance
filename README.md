@@ -66,10 +66,10 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 ### Install Dependencies
 - Frontend:
 <pre> cd client 
-  npm install </pre>
+npm install </pre>
 - Backend:
 <pre> cd server 
-  npm install </pre>
+npm install </pre>
 
 ---
 
@@ -77,11 +77,11 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 
 ### Backend:
 <pre> cd server 
-  npm start </pre>
+npm start </pre>
 
 ### Frontend:
 <pre> cd client 
-  npm run dev </pre>
+npm run dev </pre>
 
 - App will run on: http://localhost:5173
 
