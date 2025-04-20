@@ -43,6 +43,10 @@ Block Trance tracks your wallet activity, fetches transaction history, visualize
 
 ![Dashboard Preview](./assets/dashboard-preview.png)
 
+![Analytics Preview](./assets/analytics-preview.png)
+
+![Transactions_History Preview](./assets/history-preview.png)
+
 ---
 
 ## 📦 Tech Stack
